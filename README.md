@@ -6,6 +6,8 @@
 
 **Some devices are not available.
 
+This program makes adb easy to use.
+
 Features supported:
 
 Reboot to Recover /

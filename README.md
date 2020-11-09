@@ -6,6 +6,9 @@
 
 **Some devices are not available.
 
+**Please read Precautions for Compilation.md
+
+
 This program makes adb easy to use.
 
 Features supported:

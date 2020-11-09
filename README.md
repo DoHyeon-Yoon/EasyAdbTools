@@ -8,6 +8,6 @@
 
 Features supported:
 
-Reboot to Recover
-Reboot to bootloader
-Reboot in Fast Boot Mode
+Reboot to Recover /
+Reboot to bootloader /
+Reboot in Fast Boot Mode 
